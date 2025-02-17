@@ -1,6 +1,6 @@
 {
     "WorldConfig": {  
-      "IsElevatorOpen": true,
+      "IsElevatorOpen": false,
         
       "ActiveStage": 1,
       "Stages": "1 = Downstairs / 2 = Upstairs",
