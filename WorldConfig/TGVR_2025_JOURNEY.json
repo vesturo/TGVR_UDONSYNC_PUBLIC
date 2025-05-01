@@ -1,0 +1,27 @@
+{
+    "WorldConfig": {  
+      "IsElevatorOpen": true,
+        
+      "ActiveStage": 1,
+      "Stages": "1 = Downstairs / 2 = Upstairs",
+        
+      "MultiInstanceBot":"",
+        
+      "CameraBot":"",
+        
+      "Puppet1Active":false,
+      "Puppet1User":"",
+      "Puppet1Puppet":0,
+        
+      "Puppet2Active":false,
+      "Puppet2User":"",
+      "Puppet2Puppet":0,
+        
+      "Puppet3Active":false,
+      "Puppet3User":"",
+      "Puppet3Puppet":0,
+      
+      "UpNext":"GATHERING 2025",  
+      "Announcement":"Your Adventure Continues soon!"
+    }
+}
