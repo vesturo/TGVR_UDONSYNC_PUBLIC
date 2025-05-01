@@ -1,27 +1,77 @@
 {
-    "WorldConfig": {  
-      "IsElevatorOpen": true,
-        
-      "ActiveStage": 1,
-      "Stages": "1 = Downstairs / 2 = Upstairs",
-        
-      "MultiInstanceBot":"",
-        
-      "CameraBot":"",
-        
-      "Puppet1Active":false,
-      "Puppet1User":"",
-      "Puppet1Puppet":0,
-        
-      "Puppet2Active":false,
-      "Puppet2User":"",
-      "Puppet2Puppet":0,
-        
-      "Puppet3Active":false,
-      "Puppet3User":"",
-      "Puppet3Puppet":0,
-      
-      "UpNext":"GATHERING 2025",  
-      "Announcement":"Your Adventure Continues soon!"
-    }
+    "WorldUpdater": {
+        "IsOpen": true,
+        "MultiInstanceBot": "GroupSync-Red",
+        "CameraBot": "GroupSync-Neo",
+        "Puppet1Active": false,
+        "Puppet1User": "Timboy_",
+        "Puppet1Puppet": 0,
+        "Puppet2Active": false,
+        "Puppet2User": "Delicious Deli",
+        "Puppet2Puppet": 3,
+        "Puppet3Active": false,
+        "Puppet3User": "DarkGoaty",
+        "Puppet3Puppet": 3,
+        "Announcement": "Tech failed us :c sorry! check our discord Tomorrow for the full reveal sequence!",
+        "UpNext": 0,
+        "DJNames": {
+            "0": "The Adventure continues!",
+            "1": "Fallen",
+            "2": "Timboy",
+            "3": "AcChosen",
+            "4": "Clyde Machine"
+        },
+        "ActiveStage": 2,
+        "Stages": {
+            "1": "Moon Deck",
+            "2": "Storage Room"
+        }
+    },
+    "GreenroomAcess": [
+        "Vesturo",
+        "Ari Gold",
+        "AztecAngelo",
+        "HoshPak",
+        "Aquaman56",
+        "MyriadVR",
+        "RedHawks",
+        "~Spades~",
+        "Gaming Skoot",
+        "Lirodon",
+        "AyyyyRik",
+        "VirtuaLilly",
+        "KrumpCakes",
+        "GeePot",
+        "OmegaSol",
+        "FALLENx4NGEL",
+        "Timboy_",
+        "AcChosen",
+        "ClydeMachine",
+        "Firescaw",
+        "GroupSync-Red",
+        "GroupSync-Neo",
+        "Gregorif",
+        "Gaster04",
+        "Techbun",
+        "Ｖ xo",
+        "Monsterror",
+        "Deravorn",
+        "DarkGoaty",
+        "Konstintine",
+        "HypnoSparky",
+        "Cyber_tronic",
+        "n0t0",
+        "mojopeg",
+        "Quinnster",
+        "Jessi55xc",
+        "EveningSleepy",
+        "starcraftgo",
+        "Paηda",
+        "Ropaii",
+        "Rosey",
+        "Duffquick",
+        "xXPatrikXx",
+        "Turels",
+        "Jetto"
+    ]
 }
