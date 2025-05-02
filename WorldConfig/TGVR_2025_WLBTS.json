@@ -1,8 +1,8 @@
 {
     "WorldConfig": {  
-      "MultiInstanceBot":"Vesturo",
+      "MultiInstanceBot":"GroupSync-Red",
         
-      "CameraBot":"NA",
+      "CameraBot":"Vesturo",
         
       "Puppet1Active":false,
       "Puppet1User":"CheyChy",
@@ -16,7 +16,7 @@
       "Puppet3User":"ASilentSloth",
       "Puppet3Puppet":0,
       
-      "UpNext": 1,
+      "UpNext": 2,
         "DJNames": {
             "0": "The Adventure continues!",
             "1": "Kex",
