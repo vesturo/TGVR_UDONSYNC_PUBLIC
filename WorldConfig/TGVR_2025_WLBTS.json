@@ -1,8 +1,8 @@
 {
     "WorldConfig": {  
-      "MultiInstanceBot":"NA",
+      "MultiInstanceBot":"Vesturo",
         
-      "CameraBot":"Vesturo",
+      "CameraBot":"NA",
         
       "Puppet1Active":true,
       "Puppet1User":"CheyChy",
