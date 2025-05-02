@@ -1,22 +1,22 @@
 {
     "WorldConfig": {  
-      "MultiInstanceBot":"GroupSync-Red",
+      "MultiInstanceBot":"Vesturo",
         
-      "CameraBot":"Vesturo",
+      "CameraBot":"NA",
         
-      "Puppet1Active":false,
-      "Puppet1User":"",
+      "Puppet1Active":true,
+      "Puppet1User":"CheyChy",
       "Puppet1Puppet":0,
         
-      "Puppet2Active":false,
-      "Puppet2User":"",
+      "Puppet2Active":true,
+      "Puppet2User":"Aquaman56",
       "Puppet2Puppet":0,
         
-      "Puppet3Active":false,
-      "Puppet3User":"",
+      "Puppet3Active":true,
+      "Puppet3User":"ASilentSloth",
       "Puppet3Puppet":0,
       
-      "UpNext": 0,
+      "UpNext": 1,
         "DJNames": {
             "0": "The Adventure continues!",
             "1": "Kex",
