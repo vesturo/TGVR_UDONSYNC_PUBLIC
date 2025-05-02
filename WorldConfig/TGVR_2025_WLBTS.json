@@ -4,15 +4,15 @@
         
       "CameraBot":"NA",
         
-      "Puppet1Active":true,
+      "Puppet1Active":false,
       "Puppet1User":"CheyChy",
       "Puppet1Puppet":0,
         
-      "Puppet2Active":true,
+      "Puppet2Active":false,
       "Puppet2User":"Aquaman56",
       "Puppet2Puppet":0,
         
-      "Puppet3Active":true,
+      "Puppet3Active":false,
       "Puppet3User":"ASilentSloth",
       "Puppet3Puppet":0,
       
