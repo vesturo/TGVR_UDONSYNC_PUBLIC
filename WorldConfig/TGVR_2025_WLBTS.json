@@ -1,28 +1,27 @@
 {
-    "WorldConfig": {  
-      "MultiInstanceBot":"GroupSync-Red",
-        
-      "CameraBot":"Vesturo",
-        
-      "Puppet1Active":false,
-      "Puppet1User":"CheyChy",
-      "Puppet1Puppet":0,
-        
-      "Puppet2Active":false,
-      "Puppet2User":"Aquaman56",
-      "Puppet2Puppet":0,
-        
-      "Puppet3Active":false,
-      "Puppet3User":"ASilentSloth",
-      "Puppet3Puppet":0,
+  "WorldConfig": {
+    "MultiInstanceBot": "GroupSync-Red",
+    "CameraBot": "Vesturo",
       
-      "UpNext": 2,
-        "DJNames": {
-            "0": "The Adventure continues!",
-            "1": "Kex",
-            "2": "Ssoxalotl",
-            "3": "Prof",
-            "4": "Firescaw"
-        },
+    "Puppet1Active": false,
+    "Puppet1User": "CheyChy",
+    "Puppet1Puppet": 0,
+      
+    "Puppet2Active": false,
+    "Puppet2User": "Aquaman56",
+    "Puppet2Puppet": 0,
+      
+    "Puppet3Active": false,
+    "Puppet3User": "ASilentSloth",
+    "Puppet3Puppet": 0,
+      
+    "UpNext": 2,
+    "DJNames": {
+      "0": "The Adventure continues!",
+      "1": "Kex",
+      "2": "Ssoxalotl",
+      "3": "Prof",
+      "4": "Firescaw"
     }
+  }
 }
