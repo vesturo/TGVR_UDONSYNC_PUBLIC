@@ -4,20 +4,20 @@
     "CameraBot": "GroupSync-Neo",
       
     "Puppet1Active": false,
-    "Puppet1User": "CheyChy",
+    "Puppet1User": "Kex",
     "Puppet1Puppet": 0,
       
-    "Puppet2Active": true,
-    "Puppet2User": "Aquaman56",
+    "Puppet2Active": false,
+    "Puppet2User": "Senya-",
     "Puppet2Puppet": 1,
       
     "Puppet3Active": false,
-    "Puppet3User": "ASilentSloth",
+    "Puppet3User": "Gregorif",
     "Puppet3Puppet": 0,
       
-    "UpNext": 2,
+    "UpNext": 0,
     "DJNames": {
-      "0": "The Adventure continues!",
+      "0": "What lies beneath the sand..",
       "1": "Kex",
       "2": "Ssoxalotl",
       "3": "Prof",
