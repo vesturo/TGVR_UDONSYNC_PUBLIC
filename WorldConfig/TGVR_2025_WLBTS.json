@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
       
-    "Puppet1Active": false,
+    "Puppet1Active": true,
     "Puppet1User": "Kex",
     "Puppet1Puppet": 0,
       
