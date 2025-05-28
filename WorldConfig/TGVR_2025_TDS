@@ -1,0 +1,27 @@
+{
+  "WorldConfig": {
+    "MultiInstanceBot": "GroupSync-Red",
+    "CameraBot": "GroupSync-Neo",
+      
+    "Puppet1Active": false,
+    "Puppet1User": "Firescaw",
+    "Puppet1Puppet": 0,
+      
+    "Puppet2Active": false,
+    "Puppet2User": "Delicious Deli",
+    "Puppet2Puppet": 1,
+      
+    "Puppet3Active": false,
+    "Puppet3User": "MyehBoop",
+    "Puppet3Puppet": 1,
+      
+    "UpNext": 0,
+    "DJNames": {
+      "0": "The dry spell...",
+      "1": "Moonorama",
+      "2": "Sir Rose",
+      "3": "Consta",
+      "4": "Kojo"
+    }
+  }
+}
