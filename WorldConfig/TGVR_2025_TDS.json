@@ -3,16 +3,16 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
       
-    "Puppet1Active": false,
-    "Puppet1User": "moonorama",
+    "Puppet1Active": true,
+    "Puppet1User": "VirtuaLilly",
     "Puppet1Puppet": 0,
       
     "Puppet2Active": false,
     "Puppet2User": "Xee Xee",
     "Puppet2Puppet": 1,
       
-    "Puppet3Active": false,
-    "Puppet3User": "Jaymie2D",
+    "Puppet3Active": true,
+    "Puppet3User": "Vesturo",
     "Puppet3Puppet": 1,
       
     "UpNext": 0,
