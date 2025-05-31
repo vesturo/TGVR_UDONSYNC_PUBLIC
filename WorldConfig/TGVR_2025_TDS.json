@@ -1,7 +1,7 @@
 {
   "WorldConfig": {
-    "MultiInstanceBot": "",
-    "CameraBot": "",
+    "MultiInstanceBot": "GroupSync-Red",
+    "CameraBot": "GroupSync-Neo",
       
     "Puppet1Active": true,
     "Puppet1User": "moonorama",
