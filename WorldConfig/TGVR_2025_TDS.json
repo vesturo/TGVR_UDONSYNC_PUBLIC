@@ -1,21 +1,21 @@
 {
   "WorldConfig": {
-    "MultiInstanceBot": "GroupSync-Red",
-    "CameraBot": "GroupSync-Neo",
+    "MultiInstanceBot": "",
+    "CameraBot": "",
       
     "Puppet1Active": true,
-    "Puppet1User": "VirtuaLilly",
+    "Puppet1User": "moonorama",
     "Puppet1Puppet": 0,
       
     "Puppet2Active": false,
     "Puppet2User": "Xee Xee",
     "Puppet2Puppet": 1,
       
-    "Puppet3Active": true,
-    "Puppet3User": "Vesturo",
+    "Puppet3Active": false,
+    "Puppet3User": "Jaymie2D",
     "Puppet3Puppet": 1,
       
-    "UpNext": 0,
+    "UpNext": 1,
     "DJNames": {
       "0": "The dry spell...",
       "1": "Moonorama",
