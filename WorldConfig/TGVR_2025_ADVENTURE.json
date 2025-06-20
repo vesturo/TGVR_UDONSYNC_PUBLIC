@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
     "Puppet1Active": true,
-    "Puppet1User": "RobRomansVoice",
+    "Puppet1User": "Histarium",
     "Puppet1Puppet": 1,
     "Puppet2Active": false,
     "Puppet2User": null,
@@ -12,7 +12,7 @@
     "Puppet3User": null,
     "Puppet3Puppet": 5,
     "UpNext": 8,
-    "ActiveStage": 4,
+    "ActiveStage": 2,
     "DJNames": {
       "0": "AURAL STATE",
       "1": "TAISAI",
