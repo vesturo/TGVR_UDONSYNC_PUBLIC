@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
     "Puppet1Active": true,
-    "Puppet1User": "bert_",
+    "Puppet1User": "Aural_State",
     "Puppet1Puppet": 1,
     "Puppet2Active": false,
     "Puppet2User": null,
@@ -12,7 +12,7 @@
     "Puppet3User": null,
     "Puppet3Puppet": null,
     "UpNext": null,
-    "ActiveStage": 2,
+    "ActiveStage": 1,
     "DJNames": {
       "0": "AURAL STATE",
       "1": "TAISAI",
