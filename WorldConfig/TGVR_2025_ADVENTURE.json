@@ -1,1 +1,33 @@
-{}
+{
+  "WorldConfig": {
+    "MultiInstanceBot": "GroupSync-Red",
+    "CameraBot": "GroupSync-Neo",
+    "Puppet1Active": true,
+    "Puppet1User": "Taisai",
+    "Puppet1Puppet": 1,
+    "Puppet2Active": false,
+    "Puppet2User": null,
+    "Puppet2Puppet": null,
+    "Puppet3Active": false,
+    "Puppet3User": null,
+    "Puppet3Puppet": null,
+    "UpNext": null,
+    "ActiveStage": 2,
+    "DJNames": {
+      "0": "AURAL STATE",
+      "1": "TAISAI",
+      "2": "NEZULI",
+      "3": "BURGERBEAST",
+      "4": "KREZA",
+      "5": "MICHAEL PHONE",
+      "6": "ROB ROMANS VOICE",
+      "7": "HISTARIUM",
+      "8": "ONUMI",
+      "9": "BERT",
+      "10": "KATYUSHA117",
+      "11": "SAYURI PASTEL",
+      "12": "LYLAC SKY",
+      "13": "MIKPWN"
+    }
+  }
+}
