@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
     "Puppet1Active": true,
-    "Puppet1User": "loser4dim",
+    "Puppet1User": "BattleKau",
     "Puppet1Puppet": 1,
     "Puppet2Active": false,
     "Puppet2User": null,
@@ -11,8 +11,8 @@
     "Puppet3Active": false,
     "Puppet3User": null,
     "Puppet3Puppet": 5,
-    "UpNext": 1,
-    "ActiveStage": 1,
+    "UpNext": 7,
+    "ActiveStage": 2,
     "DJNames": {
       "0": "LOSER4DIM",
       "1": "YORU",
@@ -20,14 +20,14 @@
       "3": "D0BU",
       "4": "VIRTUALILLY",
       "5": "TATSUTRACKS",
-      "6": "Saturday - BattleKau - 1",
-      "7": "Saturday - LolaLop - 1",
-      "8": "Saturday - TBD - 1",
-      "9": "Saturday - Bobby J - 1",
-      "10": "Saturday - Quaigo - 1",
-      "11": "Saturday - Turels - 1",
-      "12": "Saturday - TBD - 1",
-      "13": "Saturday - KitsuneMixes - 1"
+      "6": "BATZ PROJECT",
+      "7": "LOLA LOP",
+      "8": "APOC DNB",
+      "9": "BOBBY J",
+      "10": "QUAIGO",
+      "11": "TURELS",
+      "12": "IKAMON",
+      "13": "KITSUNEMIXES"
     }
   }
 }
