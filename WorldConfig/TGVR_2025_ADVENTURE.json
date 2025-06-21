@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
     "Puppet1Active": true,
-    "Puppet1User": "D0BU",
+    "Puppet1User": "VirtuaLilly",
     "Puppet1Puppet": 1,
     "Puppet2Active": false,
     "Puppet2User": null,
@@ -11,7 +11,7 @@
     "Puppet3Active": false,
     "Puppet3User": null,
     "Puppet3Puppet": 5,
-    "UpNext": 4,
+    "UpNext": 5,
     "ActiveStage": 4,
     "DJNames": {
       "0": "LOSER4DIM",
