@@ -3,7 +3,7 @@
     "MultiInstanceBot": "GroupSync-Red",
     "CameraBot": "GroupSync-Neo",
     "Puppet1Active": true,
-    "Puppet1User": "Captivated",
+    "Puppet1User": "TGVR",
     "Puppet1Puppet": 1,
     "Puppet2Active": false,
     "Puppet2User": null,
@@ -11,8 +11,8 @@
     "Puppet3Active": false,
     "Puppet3User": null,
     "Puppet3Puppet": 5,
-    "UpNext": 12,
-    "ActiveStage": 4,
+    "UpNext": 13,
+    "ActiveStage": 1,
     "DJNames": {
       "0": "BRICKFANG",
       "1": "LIRODON",
@@ -25,7 +25,8 @@
       "8": "JOHN MCBADDASS",
       "9": "N0_SYNC",
       "10": "TWILO",
-      "11": "CAPTIVATED"
+      "11": "CAPTIVATED",
+      "12": "THANKS FOR COMING"
     }
   }
 }
