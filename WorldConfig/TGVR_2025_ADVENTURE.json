@@ -2,23 +2,13 @@
   "WorldConfig": {
     "SlotId": 1,
     "SlotName": "Slot 1",
-    "SM1Name": "vee",
-    "SM1Puppet": "1",
-    "SM2Name": "consta",
-    "SM2Puppet": "2",
-    "BotStream": "nuh uh",
-    "BotSM": "nyet",
-    "test": "skibidi",
-    "wonkyworkaround": "should work",
+    "Tracker0": "Constapatience",
+    "Venue": "0",
+    "Puppets0": "1",
     "CustomData": {
-      "sm1_name": "vee",
-      "sm1_puppet": "1",
-      "sm2_name": "consta",
-      "sm2_puppet": "2",
-      "bot_stream": "nuh uh",
-      "bot_sm": "nyet",
-      "field_1768345427852": "skibidi",
-      "field_1768345517250": "should work"
+      "field_1768345593037": "Constapatience",
+      "field_1768345598140": "0",
+      "field_1768345603361": "1"
     }
   }
 }
