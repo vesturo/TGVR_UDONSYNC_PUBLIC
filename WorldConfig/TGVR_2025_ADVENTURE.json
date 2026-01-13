@@ -2,27 +2,23 @@
   "WorldConfig": {
     "SlotId": 1,
     "SlotName": "Slot 1",
-    "Tracker0": "Vee",
-    "Puppets0": "1",
-    "Tracker1": "Consta",
-    "Puppets1": "2",
-    "Tracker2": "Rik",
-    "Puppets2": "3",
-    "Venue": "1",
-    "Screen": "1",
-    "WorldState": "1",
-    "Item": "-1",
+    "SM1Name": "vee",
+    "SM1Puppet": "1",
+    "SM2Name": "consta",
+    "SM2Puppet": "2",
+    "BotStream": "nuh uh",
+    "BotSM": "nyet",
+    "test": "skibidi",
+    "wonkyworkaround": "should work",
     "CustomData": {
-      "field_1768325998528": "Vee",
-      "field_1768326035258": "1",
-      "field_1768326055127": "Consta",
-      "field_1768326060787": "2",
-      "field_1768326066515": "Rik",
-      "field_1768326070671": "3",
-      "field_1768326101695": "1",
-      "field_1768326107494": "1",
-      "field_1768326128606": "1",
-      "field_1768326133370": "-1"
+      "sm1_name": "vee",
+      "sm1_puppet": "1",
+      "sm2_name": "consta",
+      "sm2_puppet": "2",
+      "bot_stream": "nuh uh",
+      "bot_sm": "nyet",
+      "field_1768345427852": "skibidi",
+      "field_1768345517250": "should work"
     }
   }
 }
