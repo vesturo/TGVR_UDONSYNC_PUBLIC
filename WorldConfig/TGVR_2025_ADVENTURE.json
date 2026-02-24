@@ -2,13 +2,17 @@
   "WorldConfig": {
     "SlotId": 1,
     "SlotName": "Slot 1",
-    "Tracker0": null,
-    "Venue": null,
-    "Puppets0": null,
+    "Tracker0": "Constapatience",
+    "Puppets0": "1",
+    "Venue": "0",
+    "WorldState": "0",
+    "AlertMessage": null,
     "CustomData": {
-      "field_1768345593037": "",
-      "field_1768345598140": "",
-      "field_1768345603361": ""
+      "field_1771969370905": "Constapatience",
+      "field_1771969394781": "1",
+      "field_1771969418449": "0",
+      "field_1771969435998": "0",
+      "field_1771969445442": ""
     }
   }
 }
