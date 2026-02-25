@@ -5,14 +5,14 @@
     "Tracker0": "Constapatience",
     "Puppets0": "0",
     "Venue": "0",
-    "WorldState": "3",
-    "AlertMessage": "Collect the Oil Barrels! Use the harpoon gun or use your VRC Drone. Be sure your boat gathers the most! (or else)",
+    "WorldState": "4",
+    "AlertMessage": null,
     "CustomData": {
       "field_1771969370905": "Constapatience",
       "field_1771969394781": "0",
       "field_1771969418449": "0",
-      "field_1771969435998": "3",
-      "field_1771969445442": "Collect the Oil Barrels! Use the harpoon gun or use your VRC Drone. Be sure your boat gathers the most! (or else)"
+      "field_1771969435998": "4",
+      "field_1771969445442": ""
     }
   }
 }
