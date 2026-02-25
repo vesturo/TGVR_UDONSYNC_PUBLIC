@@ -5,14 +5,14 @@
     "Tracker0": "Constapatience",
     "Puppets0": "0",
     "Venue": "0",
-    "WorldState": "1",
-    "AlertMessage": "Use the double door behind the stairs to proceed to the lifeboats.",
+    "WorldState": "2",
+    "AlertMessage": "We are heading out to clean up the spill!",
     "CustomData": {
       "field_1771969370905": "Constapatience",
       "field_1771969394781": "0",
       "field_1771969418449": "0",
-      "field_1771969435998": "1",
-      "field_1771969445442": "Use the double door behind the stairs to proceed to the lifeboats."
+      "field_1771969435998": "2",
+      "field_1771969445442": "We are heading out to clean up the spill!"
     }
   }
 }
