@@ -5,14 +5,14 @@
     "Tracker0": "Constapatience",
     "Puppets0": "0",
     "Venue": "0",
-    "WorldState": "2",
-    "AlertMessage": "We are heading out to clean up the spill!",
+    "WorldState": "3",
+    "AlertMessage": "Gather as much trash you can using the harpoon gun.  You can even use your VRC Drone. Be sure your boat gathers the most!",
     "CustomData": {
       "field_1771969370905": "Constapatience",
       "field_1771969394781": "0",
       "field_1771969418449": "0",
-      "field_1771969435998": "2",
-      "field_1771969445442": "We are heading out to clean up the spill!"
+      "field_1771969435998": "3",
+      "field_1771969445442": "Gather as much trash you can using the harpoon gun.  You can even use your VRC Drone. Be sure your boat gathers the most!"
     }
   }
 }
