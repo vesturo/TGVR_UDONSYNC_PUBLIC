@@ -1,18 +1,18 @@
 {
   "WorldConfig": {
-    "SlotId": 10,
-    "SlotName": "10",
-    "Tracker0": "Theslythief",
-    "Puppets0": "1",
+    "SlotId": null,
+    "SlotName": "Pre-Event",
+    "Tracker0": "Constapatience",
+    "Puppets0": "0",
     "Venue": "1",
-    "WorldState": "5",
+    "WorldState": "0",
     "item": "0",
     "AlertMessage": null,
     "CustomData": {
-      "field_1771969370905": "Theslythief",
-      "field_1771969394781": "1",
+      "field_1771969370905": "Constapatience",
+      "field_1771969394781": "0",
       "field_1771969418449": "1",
-      "field_1771969435998": "5",
+      "field_1771969435998": "0",
       "field_1771969435999": "0",
       "field_1771969445442": ""
     }
