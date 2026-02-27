@@ -1,20 +1,20 @@
 {
   "WorldConfig": {
-    "SlotId": 7,
-    "SlotName": "7",
+    "SlotId": 6,
+    "SlotName": "6",
     "Tracker0": "Constapatience",
     "Puppets0": "0",
     "Venue": "0",
-    "WorldState": "4",
+    "WorldState": "3",
     "item": "0",
-    "AlertMessage": null,
+    "AlertMessage": "Collect the Oil Barrels! Use the harpoon gun or use your VRC Drone. Be sure your boat gathers the most! (or else)",
     "CustomData": {
       "field_1771969370905": "Constapatience",
       "field_1771969394781": "0",
       "field_1771969418449": "0",
-      "field_1771969435998": "4",
+      "field_1771969435998": "3",
       "field_1771969435999": "0",
-      "field_1771969445442": ""
+      "field_1771969445442": "Collect the Oil Barrels! Use the harpoon gun or use your VRC Drone. Be sure your boat gathers the most! (or else)"
     }
   }
 }
