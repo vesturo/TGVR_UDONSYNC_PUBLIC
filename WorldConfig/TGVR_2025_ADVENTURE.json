@@ -1,15 +1,15 @@
 {
   "WorldConfig": {
-    "SlotId": 8,
-    "SlotName": "8",
-    "Tracker0": "Mayo",
+    "SlotId": 9,
+    "SlotName": "9",
+    "Tracker0": "rayman_",
     "Puppets0": "1",
     "Venue": "1",
     "WorldState": "5",
     "item": "0",
     "AlertMessage": null,
     "CustomData": {
-      "field_1771969370905": "Mayo",
+      "field_1771969370905": "rayman_",
       "field_1771969394781": "1",
       "field_1771969418449": "1",
       "field_1771969435998": "5",
