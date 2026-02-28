@@ -1,19 +1,19 @@
 {
   "WorldConfig": {
-    "SlotId": 9,
-    "SlotName": "9",
-    "Tracker0": "rayman_",
-    "Puppets0": "1",
+    "SlotId": 11,
+    "SlotName": "11",
+    "Tracker0": "Constapatience",
+    "Puppets0": "0",
     "Venue": "1",
     "WorldState": "5",
-    "item": "0",
+    "item": "1",
     "AlertMessage": null,
     "CustomData": {
-      "field_1771969370905": "rayman_",
-      "field_1771969394781": "1",
+      "field_1771969370905": "Constapatience",
+      "field_1771969394781": "0",
       "field_1771969418449": "1",
       "field_1771969435998": "5",
-      "field_1771969435999": "0",
+      "field_1771969435999": "1",
       "field_1771969445442": ""
     }
   }
