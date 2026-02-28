@@ -1,15 +1,15 @@
 {
   "WorldConfig": {
-    "SlotId": 2,
-    "SlotName": "2",
-    "Tracker0": "BabyJack",
+    "SlotId": 3,
+    "SlotName": "3",
+    "Tracker0": "ClydeMachine",
     "Puppets0": "1",
     "Venue": "0",
     "WorldState": "0",
     "item": "0",
     "AlertMessage": null,
     "CustomData": {
-      "field_1771969370905": "BabyJack",
+      "field_1771969370905": "ClydeMachine",
       "field_1771969394781": "1",
       "field_1771969418449": "0",
       "field_1771969435998": "0",
